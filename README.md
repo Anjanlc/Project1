@@ -1,6 +1,6 @@
 # Bookshop-Management-System
 
-Bookshop Management System is a powerful tool that helps to keep track of all the book and customer records . And, program is written in C++ .   
+Bookshop Management System is a powerful tool that helps to keep track of all the book and customer records . And, program is written in JAVA.   
 
 
   Below are some features :
