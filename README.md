@@ -13,11 +13,6 @@ Bookshop Management System is a powerful tool that helps to keep track of all th
   7. Add new copies to book.
 
 
-  How To use ?
-  
-        Step 1. Make sure you have installed C++ in your system .
-        Step 2. Open your terminal 'g++ BookshopManagmentSystem.cpp & ./a.out' .
-        Step 3. Enjoy !!
         
         
  *Some Important Points*
